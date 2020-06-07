@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="emaildb" uuid="53d8a499-23d1-46d4-85fb-54437f56f722">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Course4_Database/emaildb.sqlite</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="emaildb2" uuid="72f0b2c3-4ad4-48e4-91d0-647d65813571">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Course4_Database/emaildb2.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
